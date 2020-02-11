@@ -3,3 +3,14 @@
 ################################################################################
 
 *.ipch
+/.vs/rcparse/v15/.suo
+/.vs/rcparse/v15/Browse.VC.db
+/.vs/rcparse/v15/Solution.VC.db
+/Debug
+/rcparse/x64/Debug
+/rcparse/rcparse.vcxproj.filters
+/rcparse/rcparse.vcxproj.user
+/ReferenceMFCApp/Debug
+/ReferenceMFCApp/x64/Debug
+/x64/Debug
+/.vs/rcparse/v16
